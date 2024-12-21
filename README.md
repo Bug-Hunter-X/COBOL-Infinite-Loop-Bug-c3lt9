@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon COBOL bug: an infinite loop caused by an incorrectly implemented UNTIL condition in a PERFORM VARYING statement. The bug.cob file shows the erroneous code, leading to the loop running indefinitely.  The bugSolution.cob file provides a corrected version with improved loop logic.
